@@ -1,5 +1,5 @@
-import Player from "./components/Player.jsx";
-import GameBoard from "./components/GameBoard.jsx";
+import Player from "./components/Player/Player.jsx";
+import GameBoard from "./components/GameBoard/GameBoard.jsx";
 
 function App() {
   return (

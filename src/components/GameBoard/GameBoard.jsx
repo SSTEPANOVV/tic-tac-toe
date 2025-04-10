@@ -1,3 +1,5 @@
+import "./GameBoard.css"
+
 const initialGameBoard = [
   [null, null, null],
   [null, null, null],

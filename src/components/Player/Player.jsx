@@ -1,5 +1,7 @@
 import { useState } from "react";
 
+import "./Player.css"
+
 export default function Player({ initialName, symbol }) {
   const [name, setName] = useState(initialName);
   const [isEditing, setIsEditing] = useState(false);
